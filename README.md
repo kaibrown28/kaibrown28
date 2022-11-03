@@ -11,3 +11,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My cat Thibs is named after NBA coach Tom Thibodeau, who was the lead defensive assistant on the 2008 Boston Celtics championship team.
 
+* FYI - You may see commits from kbrpronet in some of my repositories; this was an old account that I've since stopped using.

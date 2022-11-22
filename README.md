@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on a MERN stack picture voting app and completing the AWS Cloud Practitioner certification.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on open source projects.
+- 🔭 I’m currently working on an equalithon project (think Hackathon, but over a month) for a non-profit.
+- 🌱 I’m currently learning better ways to collaborate with a group.
+- 👯 I’m looking to start collaborating on open source projects.
 - 🤔 I’m looking for help with utilizing DS&A in my coding practices, and eventually, how to do unit testing.
 - 💬 Ask me about how cool PGAdmin is.
 - 📫 How to reach me: kaibrown28@outlook.com

@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a comms paper for my undergrad degreee.
+- 🔭 I’m currently working on a comms paper for my undergrad degree.
 - 🌱 I’m currently learning topics for the AWS Cloud Practitioner exam.
 - 👯 I’m looking to start collaborating on open source projects.
 - 🤔 I’m looking for help with utilizing DS&A in my coding practices.
